@@ -79,5 +79,4 @@ local/
 # Ignore data files
 data/
 
-#Ignore all jpf files
-*.jpg
+
