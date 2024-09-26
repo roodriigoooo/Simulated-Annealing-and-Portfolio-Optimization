@@ -87,7 +87,8 @@ The parameter beta needs to be small to ensure that the temperature decreases sl
 - Exploration-Exploitation Balance: Given the inherent volatility and unpredictability of financial markets, the sceme offers a balanced approach, where the risk of getting trapped in a local optima early on is reduced, while ensuring that the search does not become too diffuse. 
 - Empirical Tuning: The beta parameter can be tuned based on preliminary runs. 
 
-![Beta vs. Optimized Values for Different Initial Temperatures](./diffbetavalues.jpg)
+![Beta vs. Optimized Values for Different 
+Initial Temperatures](images/diffbetavalues.jpg)
 
 In the plot above, for instance, we can see that an initial temperature of 100 is more optimal than that of 50 or 150. More relevantly, we can visualize what beta values are more optimal for each one of our variables to optimize. 
 Namely, the formula used for our cooling schedule is:
