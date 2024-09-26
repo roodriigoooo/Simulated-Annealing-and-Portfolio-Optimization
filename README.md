@@ -68,13 +68,13 @@ Acknowledging the inherently noisy structure of investment returns, the goal was
 The graphs below show the optimized values vs. initial temperatures: 
 
 **VaR vs. Init.Temp:**
-![VaR vs. Init. Temp.](./drawdown_vs_temp.jpg)
+![VaR vs. Init. Temp.](images/var_vs_temp.jpg)
 
 **Sharpe Ratio vs. Init.Temp:**
-![Sharpe Ratio vs. Init. Temp.](./sharpe_vs_temp.jpg)
+![Sharpe Ratio vs. Init. Temp.](images/sharpe_vs_temp.jpg)
 
 **Max.Drawdown vs. Init. Temp:**
-![Max. Drawdown vs. Init. Temp.](./drawdown_vs_temp.jpg)
+![Max. Drawdown vs. Init. Temp.](images/drawdown_vs_temp.jpg)
 
 The cooling schedule determines how the temperature decreases over time. In this project the Lundy and Mees cooling scheme is employed:
 
